@@ -1,0 +1,77 @@
+.BD {
+  color: white;
+  font-size: 70px;
+  font-family: helvetica;
+  font-weight: bold;
+   text-align: center;
+   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.ln {
+  font-family: helvetica;
+  color: white;
+  font-size: 18px;
+}
+
+.op {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.id {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
+
+.dny {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+
+}
+
+.Broadway {
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+
+}
+
+*  {
+  text-align: center;
+}
+
+.l {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  display: inline;
+}
+
+ul {
+  text-align: left;
+  display: inline;
+}
+
+ .more li {
+   display: inline;
+   text-align: left;
+ }
+
+ .more {
+   text-align: left;
+   background-color: dimgray;
+ }
